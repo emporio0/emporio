@@ -721,6 +721,27 @@ section.lazy-placeholder:after {
 .cid-s7FK9eiLnO H1 {
   color: #ffffff;
 }
+.cid-sa9mQf98T0 {
+  background: #232323;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-sa9mQf98T0 .image-block {
+  margin: auto;
+}
+.cid-sa9mQf98T0 figcaption {
+  position: relative;
+}
+.cid-sa9mQf98T0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sa9mQf98T0 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s7GaP14Nh6 {
   padding-top: 45px;
   padding-bottom: 45px;
