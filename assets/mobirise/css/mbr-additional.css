@@ -1102,6 +1102,20 @@ section.lazy-placeholder:after {
 .cid-sa9tBdcJkG H1 {
   color: #ffffff;
 }
+.cid-sa9w30107Y {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #232323, #ffffff);
+}
+.cid-sa9w30107Y .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sa9w30107Y .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s7FNHqJiMS {
   padding-top: 60px;
   padding-bottom: 60px;
